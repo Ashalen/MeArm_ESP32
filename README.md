@@ -102,6 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * This project utilizes the `ESP32Servo` library for controlling servo motors on the ESP32.
 * The ESP32 platform and its built-in Wi-Fi and WebServer functionalities make this project possible.
-* Built by AShalen GOvender using an open source robotics arm to contribute to opensource robotics.
+* Built by AShalen Govender using an open source robotics arm to contribute to opensource robotics.
 
 ---
